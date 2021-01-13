@@ -1,0 +1,24 @@
+body{
+ margin-right: 0;
+}
+h1{
+    background-color:  #800d0da2;
+    text-align: center;
+    color: white;
+}
+.main-image{
+    width: 98%;
+}
+.cars-container {
+    text-align: center;
+}
+.car-image{
+    border: 2px dashed; color: black
+}
+.footer{
+    background: black; text-align: center;
+    color: white;
+}
+.content {
+    height: 109vh;
+}
